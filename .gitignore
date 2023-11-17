@@ -9,6 +9,7 @@ __pycache__/
 # Models
 *.pt
 *.onnx
+results/
 
 # Distribution / packaging
 .Python
